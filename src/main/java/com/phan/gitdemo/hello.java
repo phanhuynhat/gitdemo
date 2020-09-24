@@ -11,5 +11,4 @@ package com.phan.gitdemo;
  */
 public class hello {
     int id;
-    String hello;
 }
